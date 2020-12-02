@@ -211,6 +211,7 @@ def mainProcess(jsonData):
         #Scan dir
         print("")
         print(COLOR1 + "> FUZZING DIRECTORIES AND FILES !!!" + RESET)
+        print("=" * 50)
         fuzzingDirsAndFiles(all_url['host'] + "FUZZ", "wordlist.txt")
 
         #Scan vulnerability

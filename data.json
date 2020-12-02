@@ -1,4 +1,9 @@
 [
+  
+  {
+    "url": "http://www.daotaonlyt.edu.vn/index.php?id=936",
+    "method": "GET"
+  },
   {
     "url": "http://127.0.0.1:1000/LFI/data/LFI.php?file=flag",
     "method": "GET"
