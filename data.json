@@ -1,0 +1,22 @@
+[
+  {
+    "url": "http://funagamex.vn/lienhe.php?id_menu=9",
+    "method": "GET"
+  },
+  {
+    "url": "http://127.0.0.1:1000/LFI/data/LFI.php?file=flag",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.bambooairways.com/vn-en/company/press-and-news/press-release/happy-vietnam-entreprenuers-day/?category=1",
+    "method": "GET"
+  },
+  {
+    "url": "https://www.vietjetair.com/Sites/Web/SearchKeyWord.aspx?Key=Hello",
+    "method": "GET"
+  },
+  {
+    "url": "http://oppo.com.my/webshaper/store/searchProd.asp?searchText=1",
+    "method": "GET"
+  }
+]
